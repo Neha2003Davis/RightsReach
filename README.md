@@ -22,7 +22,8 @@ Here’s a screenshot of the application in action:
 ### Clone the Repository
 To get started, clone the repository to your local machine:
 
-
+```bash
+https://github.com/Neha2003Davis/RightsReach.git
 
 ### Setup Instructions
 
