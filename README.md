@@ -20,7 +20,7 @@ Here’s a screenshot of the application in action:
 - Python 3.11+
 
 ### Clone the Repository
-To get started, clone the repository to your local machine
+To get started, clone the repository to your local machine by running:
 
 ```
 https://github.com/Neha2003Davis/RightsReach.git
