@@ -22,6 +22,10 @@ Here’s a screenshot of the application in action:
 ### Clone the Repository
 To get started, clone the repository to your local machine
 
+```
+https://github.com/Neha2003Davis/RightsReach.git
+```
+
 ### Setup Instructions
 
 1. **Install Docker**: Ensure Docker is installed and running on your machine. You can find installation instructions on the [Docker website](https://docs.docker.com/get-docker/).
